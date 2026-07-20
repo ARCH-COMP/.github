@@ -14,7 +14,7 @@ Website: https://cps-vo.org/group/ARCH/FriendlyCompetition <br/>
 
 ## Hosting ARCH-COMP Locally
 
-We have open-sourced the submission platform behind VNN-COMP.
+We have open-sourced the submission platform behind ARCH-COMP.
 
 This allows you to run the platform on a local server of your lab,
 and thoroughly test your submission before submitting to the real system.
