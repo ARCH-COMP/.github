@@ -10,7 +10,7 @@ Website: https://cps-vo.org/group/ARCH/FriendlyCompetition <br/>
 - Example benchmark: https://github.com/ARCH-COMP/example_benchmark
 - Example toolkit: https://github.com/ARCH-COMP/example_toolkit
 
-➡️ submit via at https://arch.repeatability.cps.cit.tum.de/
+➡️ submit at https://arch.repeatability.cps.cit.tum.de/
 
 ## Hosting ARCH-COMP Locally
 
