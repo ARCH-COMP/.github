@@ -2,11 +2,11 @@
 
 Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH)
 
-Website: https://cps-vo.org/group/ARCH/FriendlyCompetition <br/>
+Website: https://arch-comp.github.io/
 
 ## Getting Started
 
-- Discussion: `TBA`
+- Join: https://arch-comp.github.io/#contact
 - Example benchmark: https://github.com/ARCH-COMP/example_benchmark
 - Example toolkit: https://github.com/ARCH-COMP/example_toolkit
 
